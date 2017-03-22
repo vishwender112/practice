@@ -35,4 +35,4 @@ https://vsi122@del.tools.publicis.sapient.com/bitbucket/scm/sk/kairos_initial.gi
 
 FD90C0BA-4CB7-47B9-B357-5C638DCFBE0B
 
-shadow_training
+shadow_training_
