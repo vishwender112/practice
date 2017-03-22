@@ -35,4 +35,8 @@ https://vsi122@del.tools.publicis.sapient.com/bitbucket/scm/sk/kairos_initial.gi
 
 FD90C0BA-4CB7-47B9-B357-5C638DCFBE0B
 
+<<<<<<< HEAD
 hadow_training_
+=======
+shadow_training______
+>>>>>>> 3c753e3bad1ba6771ce53938f84322246185eb06
