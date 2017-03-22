@@ -1,0 +1,36 @@
+<IM:auto.login login="kairosadmin" />
+<% String strRepository=""; %>
+<IM:get.repository.attribute.value systemattribute="refkey" id="idRepository"><%strRepository=idRepository.value;%></IM:get.repository.attribute.value> 
+
+<IM:save.content.data contentid*="e7a8e90a3d5b4a1e88b93fce33354a2f" publish="true" >
+
+</IM:save.content.data>
+
+
+
+
+
+*******
+http://tutorials.jenkov.com/java-json/jackson-jsongenerator.html
+
+CKEDITOR.config.scayt_autoStartup = true;
+
+editor.config.language 
+
+
+
+************
+http://<host>:8226/imws/WebObjects/imws.woa/ws/RequestProcessor
+
+
+
+https://vsi122@del.tools.publicis.sapient.com/bitbucket/scm/sk/kairos_initial.git
+
+
+
+
+
+/ app/ weblogic/ application/ kairos_prod/ KAIROS. ear
+
+
+FD90C0BA-4CB7-47B9-B357-5C638DCFBE0B
